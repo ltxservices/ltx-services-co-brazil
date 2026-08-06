@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner-ltx.png" alt="LTX Services Co. Brazil" width="100%">
+</p>
+
 # LTX Services Co. Brazil
 
 ## Business Intelligence • Financial Intelligence • Market Intelligence • Artificial Intelligence
