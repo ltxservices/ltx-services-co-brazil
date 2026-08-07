@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-ltx.png" alt="LTX Services Co. Brazil" width="100%">
+  <img src="banner-ltx v1.png" alt="LTX Services Co. Brazil" width="100%">
 </p>
 
 # LTX Services Co. Brazil
