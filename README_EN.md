@@ -121,7 +121,7 @@ Developing solutions, integrating them into organizational processes, and monito
 5. Continuous Evolution
 Monitoring indicators, continuous improvement, and ongoing refinement of implemented solutions.
 
-Differentiators
+# Differentiators
 More than fifteen years of professional experience in industrial and service organizations.
 
 Integration between business management, finance, technology, and Artificial Intelligence.
