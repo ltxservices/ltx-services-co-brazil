@@ -2,6 +2,9 @@
   <img src="banner-ltx v1.png" alt="LTX Services Co. Brazil" width="100%">
 </p>
 
+### 🌐 Idioma
+
+🇧🇷 [Português](README.md) | 🇺🇸 [English](README_EN.md) | 🇪🇸 Español
 # LTX Services Co. Brazil
 
 ## Business Intelligence • Financial Intelligence • Market Intelligence • Artificial Intelligence
