@@ -7,7 +7,7 @@
 🇧🇷 [Português](README.md) | 🇺🇸 [English](README_EN.md) | 🇪🇸 Español
 
 # LTX Services Co. Brazil
-Business Intelligence - Financial Intelligence - Market Intelligence - Artificial Intelligence
+> ## Business Intelligence - Financial Intelligence - Market Intelligence - Artificial Intelligence
 Transforming data into intelligence. Transforming intelligence into results.
 
 # About LTX Services Co. Brazil
