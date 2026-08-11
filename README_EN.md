@@ -103,7 +103,7 @@ Development of Artificial Intelligence-based solutions, intelligent agents, proc
 Digital Transformation
 Modernization of organizational processes through the integration of technology, automation, data, and innovation.
 
-Methodology
+# Methodology
 Our methodology is structured in five stages:
 
 1. Strategic Diagnosis
