@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner-ltx v1.png" alt="LTX Services Co. Brazil" width="100%">
+</p>
+
 ### 🌐 Idioma
 
 🇧🇷 [Português](README.md) | 🇺🇸 [English](README_EN.md) | 🇪🇸 Español
