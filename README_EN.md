@@ -7,8 +7,8 @@
 🇧🇷 [Português](README.md) | 🇺🇸 [English](README_EN.md) | 🇪🇸 Español
 
 # LTX Services Co. Brazil
-> ## Business Intelligence - Financial Intelligence - Market Intelligence - Artificial Intelligence
-Transforming data into intelligence. Transforming intelligence into results.
+## Business Intelligence - Financial Intelligence - Market Intelligence - Artificial Intelligence
+> ## Transforming data into intelligence. Transforming intelligence into results.
 
 # About LTX Services Co. Brazil
 LTX Services Co. Brazil is a company specialized in Business Intelligence, Financial Consulting, Market Intelligence, Business Intelligence, Data Engineering, and Artificial Intelligence applied to business.
