@@ -19,20 +19,20 @@ The company's activities are grounded in the professional experience accumulated
 
 Our purpose is to transform information into strategic knowledge, supporting organizations in improving performance, optimizing processes, and making high-impact decisions.
 
-Who We Are
+# Who We Are
 LTX Services Co. Brazil was created with the purpose of integrating business management, analytical intelligence, and technology into a consulting model focused on generating value for organizations across different segments.
 
 We believe that strategic decisions depend on the combination of technical knowledge, reliable data, structured processes, and a long-term vision.
 
 Our work seeks to connect people, processes, and technology to develop solutions that strengthen competitiveness, promote innovation, and expand organizations' analytical capabilities.
 
-Mission
+# Mission
 To transform data into applied intelligence, enabling organizations to make well-founded strategic decisions, increase their operational efficiency, and promote sustainable results through the integration of management, technology, and innovation.
 
-Vision
+# Vision
 To be recognized as a reference in Business Intelligence, contributing to the evolution of corporate management through the integration of knowledge, technology, data science, and Artificial Intelligence.
 
-Values
+# Values
 Ethics and Integrity
 
 Technical Excellence
@@ -53,10 +53,10 @@ Data-Driven Orientation
 
 Respect for People and Organizations
 
-Our Experience
+# Our Experience
 Our work is supported by professional experience developed in industrial and service companies, covering different economic segments.
 
-Among them:
+# Among them:
 
 Food and Beverage Industry
 
@@ -78,7 +78,7 @@ Digital Transformation
 
 This diversity provides a comprehensive view of challenges related to financial management, controllership, strategic planning, market intelligence, data analysis, and organizational transformation.
 
-Areas of Expertise
+# Areas of Expertise
 Business Intelligence
 Structuring analytical models to support decision-making, integrating corporate indicators, and developing data-driven environments.
 
@@ -136,7 +136,7 @@ Commitment to sustainable results.
 
 Focus on continuous value generation for clients and partners.
 
-Research, Development, and Innovation
+# Research, Development, and Innovation
 LTX Services Co. Brazil maintains continuous research and development initiatives focused on the evolution of business management and the application of emerging technologies.
 
 The main research lines include:
@@ -167,7 +167,7 @@ Information Governance
 
 Digital Transformation
 
-Areas of Knowledge
+# Areas of Knowledge
 Business Intelligence
 
 Financial Intelligence
@@ -208,12 +208,12 @@ Corporate Performance
 
 Executive Dashboards
 
-Commitment
+# Commitment
 We believe that technology only generates value when applied to solving real organizational challenges.
 
 Our commitment is to transform data into knowledge, knowledge into intelligence, and intelligence into decisions capable of strengthening competitiveness, sustainability, and company growth.
 
-Contact
+# Contact
 LTX Services Co. Brazil
 
 📧 ltxservices.co@gmail.com
